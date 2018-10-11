@@ -1,0 +1,12 @@
+Top 3 Articles by number of views:
+Candidate is jerk, alleges rival -- 338647 views
+Bears love berries, alleges bear -- 253801 views
+Bad things gone, say good people -- 170098 views
+
+Top 3 Authors by number of views:
+Ursula La Multa -- 507594 views
+Rudolf von Treppenwitz -- 423457 views
+Anonymous Contributor -- 170098 views
+
+Days with an error rate above one percent:
+2016-07-17 -- 2.26% errors
